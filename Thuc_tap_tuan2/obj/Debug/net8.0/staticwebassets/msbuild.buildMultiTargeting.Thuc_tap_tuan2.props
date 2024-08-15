@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Thuc_tap_tuan2.props" />
+</Project>

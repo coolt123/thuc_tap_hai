@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Thuc_tap\\Thuc_tap_tuan2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\services\\implements\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\services\\implements\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\services\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\services\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\dbcontexts\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\dbcontexts\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\controllers\\doanhnghiepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\controllers\\doanhnghiepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\services\\interfaces\\idoanhnghiepsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\services\\interfaces\\idoanhnghiepsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\thuc_tap_tuan2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\thuc_tap_tuan2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\dtos\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\dtos\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\dtos\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\dtos\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\migrations\\20240815115428_addidentityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\migrations\\20240815115428_addidentityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuc_tap\\Identity\\Identity\\DbContexts\\Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\thuc_tap_tuan2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\thuc_tap_tuan2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIM THE\\Documents\\Zalo Received Files\\Services\\Implements\\SanPhamDoanhNghiepService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIM THE\\Documents\\Zalo Received Files\\Services\\Interfaces\\ISanPhamDoanhNghiepService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIM THE\\Documents\\Zalo Received Files\\Dtos\\SanPhamDoanhNghiepDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\dtos\\sanphamdoanhnghiepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\dtos\\sanphamdoanhnghiepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\dtos\\doanhnghiepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\dtos\\doanhnghiepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\services\\implements\\doanhnghiepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\services\\implements\\doanhnghiepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\services\\interfaces\\idoanhnghiepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\services\\interfaces\\idoanhnghiepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\entities\\doanhnghiepsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\entities\\doanhnghiepsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\dtos\\createdoanhnghiepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\dtos\\createdoanhnghiepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\dtos\\updatedoangnghiepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\dtos\\updatedoangnghiepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\entities\\doanhnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\entities\\doanhnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\entities\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\entities\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|d:\\thuc_tap\\thuc_tap_tuan2\\thuc_tap_tuan2\\migrations\\20240813052130_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CA26DA-0258-4EF8-A471-E1F0ABF535DF}|Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj|solutionrelative:thuc_tap_tuan2\\migrations\\20240813052130_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 295,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:44:45.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T04:26:37.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\appsettings.json",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\appsettings.json",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\appsettings.json",
+              "RelativeToolTip": "Thuc_tap_tuan2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T03:58:02.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Services\\Implements\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Services\\Implements\\AccountRepository.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Services\\Implements\\AccountRepository.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Services\\Implements\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:16:33.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Entities\\AppRole.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Entities\\AppRole.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Entities\\AppRole.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Entities\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:07:44.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\DbContexts\\Data.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\DbContexts\\Data.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\DbContexts\\Data.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\DbContexts\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:29:52.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Services\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Services\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Services\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Services\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:14:36.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:15:41.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\appsettings.Development.json",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\appsettings.Development.json",
+              "RelativeToolTip": "Thuc_tap_tuan2\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T14:55:12.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Dtos\\SignUpModel.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\SignUpModel.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Dtos\\SignUpModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:11:43.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoanhNghiepController.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Controllers\\DoanhNghiepController.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Controllers\\DoanhNghiepController.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Controllers\\DoanhNghiepController.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Controllers\\DoanhNghiepController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:15:05.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\SignInModel.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Dtos\\SignInModel.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\SignInModel.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Dtos\\SignInModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:09:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Thuc_tap_tuan2.http",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Thuc_tap_tuan2.http",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Thuc_tap_tuan2.http",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Thuc_tap_tuan2.http",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Thuc_tap_tuan2.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-13T04:18:18.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDoanhNghiepSanPham.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Services\\Interfaces\\IDoanhNghiepSanPham.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Services\\Interfaces\\IDoanhNghiepSanPham.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Services\\Interfaces\\IDoanhNghiepSanPham.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Services\\Interfaces\\IDoanhNghiepSanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:18:14.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Program.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Program.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Program.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:29:27.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240815115428_AddIdentityAuthentication.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Migrations\\20240815115428_AddIdentityAuthentication.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Migrations\\20240815115428_AddIdentityAuthentication.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Migrations\\20240815115428_AddIdentityAuthentication.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Migrations\\20240815115428_AddIdentityAuthentication.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:54:29.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Identity\\Identity\\DbContexts\\Context.cs",
+              "RelativeDocumentMoniker": "..\\Identity\\Identity\\DbContexts\\Context.cs",
+              "ToolTip": "D:\\Thuc_tap\\Identity\\Identity\\DbContexts\\Context.cs",
+              "RelativeToolTip": "..\\Identity\\Identity\\DbContexts\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:22:19.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Thuc_tap_tuan2.csproj",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Thuc_tap_tuan2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T11:16:09.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SanPhamDoanhNghiepDto.cs",
+              "DocumentMoniker": "C:\\Users\\KIM THE\\Documents\\Zalo Received Files\\Dtos\\SanPhamDoanhNghiepDto.cs",
+              "ToolTip": "C:\\Users\\KIM THE\\Documents\\Zalo Received Files\\Dtos\\SanPhamDoanhNghiepDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:12:15.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ISanPhamDoanhNghiepService.cs",
+              "DocumentMoniker": "C:\\Users\\KIM THE\\Documents\\Zalo Received Files\\Services\\Interfaces\\ISanPhamDoanhNghiepService.cs",
+              "ToolTip": "C:\\Users\\KIM THE\\Documents\\Zalo Received Files\\Services\\Interfaces\\ISanPhamDoanhNghiepService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:11:57.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DoanhNghiepDto.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\DoanhNghiepDto.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Dtos\\DoanhNghiepDto.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\DoanhNghiepDto.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Dtos\\DoanhNghiepDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:58:36.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoanhNghiepService.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Services\\Implements\\DoanhNghiepService.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Services\\Implements\\DoanhNghiepService.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Services\\Implements\\DoanhNghiepService.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Services\\Implements\\DoanhNghiepService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwEIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:51:52.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SanPhamDoanhNghiepService.cs",
+              "DocumentMoniker": "C:\\Users\\KIM THE\\Documents\\Zalo Received Files\\Services\\Implements\\SanPhamDoanhNghiepService.cs",
+              "ToolTip": "C:\\Users\\KIM THE\\Documents\\Zalo Received Files\\Services\\Implements\\SanPhamDoanhNghiepService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:13:36.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SanPhamDoanhNghiepDto.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\SanPhamDoanhNghiepDto.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Dtos\\SanPhamDoanhNghiepDto.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\SanPhamDoanhNghiepDto.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Dtos\\SanPhamDoanhNghiepDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:12:44.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDoanhNghiepService.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Services\\Interfaces\\IDoanhNghiepService.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Services\\Interfaces\\IDoanhNghiepService.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Services\\Interfaces\\IDoanhNghiepService.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Services\\Interfaces\\IDoanhNghiepService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:49:02.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DoanhNghiepSanPham.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Entities\\DoanhNghiepSanPham.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Entities\\DoanhNghiepSanPham.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Entities\\DoanhNghiepSanPham.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Entities\\DoanhNghiepSanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:27:35.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateDoanhNghiepDto.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\CreateDoanhNghiepDto.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Dtos\\CreateDoanhNghiepDto.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\CreateDoanhNghiepDto.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Dtos\\CreateDoanhNghiepDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:44:48.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateDoangNghiepDto.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\UpdateDoangNghiepDto.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Dtos\\UpdateDoangNghiepDto.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Dtos\\UpdateDoangNghiepDto.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Dtos\\UpdateDoangNghiepDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:59:14.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoanhNghiep.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Entities\\DoanhNghiep.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Entities\\DoanhNghiep.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Entities\\DoanhNghiep.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Entities\\DoanhNghiep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:24:32.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Entities\\SanPham.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Entities\\SanPham.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Entities\\SanPham.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Entities\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:26:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240813052130_DbInit.cs",
+              "DocumentMoniker": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Migrations\\20240813052130_DbInit.cs",
+              "RelativeDocumentMoniker": "Thuc_tap_tuan2\\Migrations\\20240813052130_DbInit.cs",
+              "ToolTip": "D:\\Thuc_tap\\Thuc_tap_tuan2\\Thuc_tap_tuan2\\Migrations\\20240813052130_DbInit.cs",
+              "RelativeToolTip": "Thuc_tap_tuan2\\Migrations\\20240813052130_DbInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:21:31.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAALUSAAAAAAAAAAAnwMUSAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-13T05:12:33.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
